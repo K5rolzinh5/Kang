@@ -5,3 +5,12 @@ header nav div h1 {
     font-size: 30px;
     vertical-align: middle;
 }
+footer {
+    color: #696969;
+    margin-top: 20px;
+    padding: 30px;
+}
+.nav-item:hover {
+    font-weight: bold;
+    border-bottom: 1px solid #696969;
+}
