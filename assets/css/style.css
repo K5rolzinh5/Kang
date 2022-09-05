@@ -5,6 +5,12 @@ header nav div h1 {
     font-size: 30px;
     vertical-align: middle;
 }
+#contato p {
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
 footer {
     color: #696969;
     margin-top: 20px;
